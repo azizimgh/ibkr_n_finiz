@@ -1,0 +1,8 @@
+python-binance
+pandas
+flask
+bs4
+ib-insync
+finance-calendars
+matplotlib
+yfinance

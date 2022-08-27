@@ -1,0 +1,82 @@
+time,logs
+2022-08-27 18:03:32.906897 :: Todays list of stocks created
+2022-08-27 18:03:33.236330 :: Ib opened
+2022-08-27 18:03:33.236769 :: Starting tickers price for stocks
+2022-08-27 18:03:33.249400 :: Ticker started for: AAPL
+2022-08-27 18:03:33.260813 :: Ticker started for: AMZN
+2022-08-27 18:03:33.273844 :: Ticker started for: META
+2022-08-27 18:03:33.286886 :: Ticker started for: TSLA
+2022-08-27 18:03:33.299863 :: Ticker started for: BNTX
+2022-08-27 18:03:33.311255 :: Ticker started for: PFE
+2022-08-27 18:03:33.324727 :: Ticker started for: MRNA
+2022-08-27 18:03:33.338197 :: Ticker started for: NVDA
+2022-08-27 18:03:33.351257 :: Ticker started for: DELL
+2022-08-27 18:03:33.364869 :: Ticker started for: MMM
+2022-08-27 18:03:33.378187 :: Ticker started for: GOOG
+2022-08-27 18:03:33.391575 :: Ticker started for: GOOGL
+2022-08-27 18:03:33.404959 :: Ticker started for: NFLX
+2022-08-27 18:03:33.417135 :: Ticker started for: XOM
+2022-08-27 18:03:33.431017 :: Ticker started for: OKTA
+2022-08-27 18:03:33.444768 :: Ticker started for: DLTR
+2022-08-27 18:03:33.458531 :: Ticker started for: BA
+2022-08-27 18:03:33.472121 :: Ticker started for: CRM
+2022-08-27 18:03:33.485572 :: Ticker started for: DG
+2022-08-27 18:03:33.499131 :: Ticker started for: BIDU
+2022-08-27 18:03:36.604260 :: Strategy 1 criteria met for : AMZN at decrease -4.598037780055646
+2022-08-27 18:03:36.713710 :: Strategy 1 criteria met for : TSLA at decrease -4.327941621548914
+2022-08-27 18:03:36.823050 :: Strategy 1 criteria met for : BNTX at decrease -2.1424634885643328
+2022-08-27 18:03:36.931372 :: Strategy 1 criteria met for : MRNA at decrease -4.32773109243698
+2022-08-27 18:03:37.039018 :: Strategy 1 criteria met for : NVDA at decrease -9.258948075953622
+2022-08-27 18:03:37.145199 :: Strategy 1 criteria met for : DELL at decrease -9.76886175316179
+2022-08-27 18:03:37.252052 :: Strategy 1 criteria met for : MMM at decrease -9.65608465608464
+2022-08-27 18:03:37.358655 :: Strategy 1 criteria met for : GOOG at decrease -3.978940100120835
+2022-08-27 18:03:37.462681 :: Strategy 1 criteria met for : GOOGL at decrease -3.9591872329292808
+2022-08-27 18:03:37.569589 :: Strategy 1 criteria met for : NFLX at decrease -4.777192757159378
+2022-08-27 18:03:37.677404 :: Strategy 1 criteria met for : OKTA at decrease -6.30016051364366
+2022-08-27 18:03:37.783032 :: Strategy 1 criteria met for : DLTR at decrease -7.244822733060788
+2022-08-27 18:03:37.890242 :: Strategy 1 criteria met for : BA at decrease -3.4823529411764635
+2022-08-27 18:03:37.993209 :: Strategy 1 criteria met for : CRM at decrease -5.2655782938606555
+2022-08-27 18:03:38.100924 :: Strategy 1 criteria met for : DG at decrease -4.020957719020351
+2022-08-27 18:03:38.208347 :: Strategy 1 criteria met for : BIDU at decrease -4.323588513644918
+2022-08-27 18:03:41.419326 :: Strategy 1 criteria met for : AAPL at decrease -4.748783490648997
+2022-08-27 18:07:34.385714 :: Code Started
+2022-08-27 18:07:34.386266 :: Todays list of stocks created
+2022-08-27 18:07:34.718607 :: Ib opened
+2022-08-27 18:07:34.719021 :: Starting tickers price for stocks
+2022-08-27 18:07:34.735364 :: Ticker started for: AAPL
+2022-08-27 18:07:34.746795 :: Ticker started for: AMZN
+2022-08-27 18:07:34.759827 :: Ticker started for: META
+2022-08-27 18:07:34.772925 :: Ticker started for: TSLA
+2022-08-27 18:07:34.786256 :: Ticker started for: BNTX
+2022-08-27 18:07:34.800202 :: Ticker started for: PFE
+2022-08-27 18:07:34.811743 :: Ticker started for: MRNA
+2022-08-27 18:07:34.825018 :: Ticker started for: NVDA
+2022-08-27 18:07:34.838177 :: Ticker started for: DELL
+2022-08-27 18:07:34.851377 :: Ticker started for: MMM
+2022-08-27 18:07:34.864763 :: Ticker started for: GOOG
+2022-08-27 18:07:34.877933 :: Ticker started for: GOOGL
+2022-08-27 18:07:34.891550 :: Ticker started for: NFLX
+2022-08-27 18:07:34.905184 :: Ticker started for: XOM
+2022-08-27 18:07:34.918762 :: Ticker started for: OKTA
+2022-08-27 18:07:34.932208 :: Ticker started for: DLTR
+2022-08-27 18:07:34.945761 :: Ticker started for: BA
+2022-08-27 18:07:34.959090 :: Ticker started for: CRM
+2022-08-27 18:07:34.972460 :: Ticker started for: DG
+2022-08-27 18:07:34.984697 :: Ticker started for: BIDU
+2022-08-27 18:07:38.085048 :: Strategy 1 criteria met for : TSLA at decrease -4.327941621548914
+2022-08-27 18:07:38.191024 :: Strategy 1 criteria met for : BNTX at decrease -2.1424634885643328
+2022-08-27 18:07:38.296924 :: Strategy 1 criteria met for : MRNA at decrease -4.32773109243698
+2022-08-27 18:07:38.403790 :: Strategy 1 criteria met for : NVDA at decrease -9.258948075953622
+2022-08-27 18:07:38.510311 :: Strategy 1 criteria met for : DELL at decrease -9.76886175316179
+2022-08-27 18:07:38.617430 :: Strategy 1 criteria met for : MMM at decrease -9.65608465608464
+2022-08-27 18:07:38.724219 :: Strategy 1 criteria met for : GOOG at decrease -3.978940100120835
+2022-08-27 18:07:38.826938 :: Strategy 1 criteria met for : GOOGL at decrease -3.9591872329292808
+2022-08-27 18:07:38.933890 :: Strategy 1 criteria met for : NFLX at decrease -4.777192757159378
+2022-08-27 18:07:39.035864 :: Strategy 1 criteria met for : OKTA at decrease -6.30016051364366
+2022-08-27 18:07:39.143044 :: Strategy 1 criteria met for : DLTR at decrease -7.244822733060788
+2022-08-27 18:07:39.249487 :: Strategy 1 criteria met for : BA at decrease -3.4823529411764635
+2022-08-27 18:07:39.355625 :: Strategy 1 criteria met for : CRM at decrease -5.2655782938606555
+2022-08-27 18:07:39.460054 :: Strategy 1 criteria met for : DG at decrease -4.020957719020351
+2022-08-27 18:07:39.564902 :: Strategy 1 criteria met for : BIDU at decrease -4.323588513644918
+2022-08-27 18:07:42.770046 :: Strategy 1 criteria met for : AAPL at decrease -4.748783490648997
+2022-08-27 18:07:42.877627 :: Strategy 1 criteria met for : AMZN at decrease -4.598037780055646
